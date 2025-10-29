@@ -1,11 +1,10 @@
-# Welcome to my humble repository!
+# Welcome! 👋
 
-- ***DevOps Software Engineer*** working at ***[Dell](https://www.dell.com/)*** 🌎 via consultant company [DBServer](https://db.tec.br/)
-- Old school nerd from Brazil 
-- Great passion for tech in general
-- Portuguese from Brazil (Native)
-- English TOEFL iBT - Common European Framework of Reference level C1 (Fluent)
-- Single Father of the cutest girl
+- ***Python Backend & DevOps Engineer*** passionate about building robust systems and automating cloud infrastructure.
+- Check out my portfolio: [rafael.engineer](https://rafael.engineer/)
+- Based in Brazil 🇧🇷 | Old school nerd with a great passion for tech.
+- Fluent English (C1 - TOEFL ITP, EF SET C1) | Native Portuguese.
+- Solo Father of the cutest girl
 - PanPride 🏳️‍🌈💗💛💙 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skan90&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
@@ -54,6 +53,6 @@
 
 ## Contact Me
 
-<a href="mailto:rafasilva.9021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/skan90/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:contact@rafael.engineer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/rafael-engineer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
